@@ -20,14 +20,13 @@ header {
 
 }
 .etiqueta {
+    position: absolute;
     display: flex;
     align-items: center;
-    position: absolute;
     font-size: 2.0rem;
     width: 65%;
     height: 4rem;
     border: solid 2px white;
-    text-align: justify;
     background: white;
     box-shadow: 2px 16px 23px 6px rgba(153, 149, 153, 0.294);
     color: black;
